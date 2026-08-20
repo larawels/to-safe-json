@@ -1,6 +1,6 @@
 {
   "name": "to-safe-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Converts any JavaScript value into a JSON string, safely",
   "main": "src/index.js",
   "files": [
