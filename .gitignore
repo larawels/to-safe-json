@@ -24,3 +24,6 @@ Thumbs.db
 
 # Test coverage
 coverage/
+
+# internal release runbook — kept local, not published
+RELEASING.md
